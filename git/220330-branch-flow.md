@@ -60,6 +60,6 @@
 * git flow init 하고 초기화
 * git flow featuer start (이름) : 새 기능을 시작한다.
 * git branch : 수시로 확인
-* git flow featuer finish (이름) : 기능 개발을 완료.
+* git flow featuer finish (이름) : 기능 개발을 완료
 * git flow featuer publish (이름)
 
